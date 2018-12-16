@@ -100,7 +100,7 @@ There is a sample __SampleNotificationRecord__ file that can be used to run this
 ## Built With
 
 * [IntelliJ IDE](https://www.jetbrains.com/idea) - A Java Integrated Development Environment
-* 
+
 ## Authors
 
 * **Abdus Saboor Suhail** - *Evaluation Test Solution*
